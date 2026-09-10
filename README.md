@@ -4,7 +4,7 @@
 
 <img width="1281" height="755" alt="Capture" src="https://github.com/user-attachments/assets/3e2c009c-1f39-438a-ae99-7eb081c310e3" />
 
-- Durable and precise components, keyboard switches, TMR Joystick
+- Durable and precise components, keyboard switches, TMR joysticks
 - Easy to repair, 3D printed with open-source files and designed to not replace the entire controller for one part breaking
 - Open-sourced firmware [GP2040-CE](https://gp2040-ce.info/) to not have a controller obsolete over time with different hardware
 - Swappable components (only for the useful ones aka no microcontroller) for easy replacement without soldering and customization
